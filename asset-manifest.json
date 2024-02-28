@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IPL-Dashboard/static/css/main.133fbea1.css",
+    "main.js": "/IPL-Dashboard/static/js/main.572c0b23.js",
+    "static/js/453.98d80044.chunk.js": "/IPL-Dashboard/static/js/453.98d80044.chunk.js",
+    "index.html": "/IPL-Dashboard/index.html",
+    "main.133fbea1.css.map": "/IPL-Dashboard/static/css/main.133fbea1.css.map",
+    "main.572c0b23.js.map": "/IPL-Dashboard/static/js/main.572c0b23.js.map",
+    "453.98d80044.chunk.js.map": "/IPL-Dashboard/static/js/453.98d80044.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.133fbea1.css",
+    "static/js/main.572c0b23.js"
+  ]
+}
